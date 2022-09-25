@@ -4,4 +4,4 @@ In this, the model classifies the handwritten digits. It provides results based 
 ## Algorithms and their Accuracy
 1. K Nearest Neighbours:
 2. Random Forest Classifier:
-3. Convolutional Neural Network (TensorFlow and Keras): 98.47 %
+3. Convolutional Neural Network (TensorFlow and Keras): 98.56 %
