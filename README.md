@@ -6,4 +6,4 @@ In this, the model classifies the handwritten digits. It provides results based 
 2. Random Forest Classifier: 96.38 %
 3. Convolutional Neural Network (TensorFlow and Keras): 98.56 %
 4. Support Vector Machine with PCA: 99.92 %
-PCA - Principal Component Analysis
+<br>PCA - Principal Component Analysis
