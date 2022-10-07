@@ -5,5 +5,5 @@ In this, the model classifies the handwritten digits. It provides results based 
 1. K Nearest Neighbours: 98.0 %
 2. Random Forest Classifier: 96.38 %
 3. Convolutional Neural Network (TensorFlow and Keras): 98.56 %
-4. Support Vector Machine with PCA: 99.92 %
+4. Support Vector Machine with PCA: 98.41 %
 <br>PCA - Principal Component Analysis
