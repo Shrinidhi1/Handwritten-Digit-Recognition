@@ -4,6 +4,6 @@ In this, the model classifies the handwritten digits. It provides results based 
 ## Algorithms and their Accuracy
 1. K Nearest Neighbours: 98.0 %
 2. Random Forest Classifier: 96.38 %
-3. Support Vector Machine with PCA: 98.41 %
+3. Support Vector Machine with PCA: 98.26 %
 <br>PCA - Principal Component Analysis
 4. Convolutional Neural Network (TensorFlow and Keras): 98.56 %
