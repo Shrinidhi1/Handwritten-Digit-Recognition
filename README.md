@@ -1,6 +1,6 @@
 # Handwritten Digit Recognition using Machine Learning and Deep Learning
 ## Problem Statement
-In this, the model classifies the handwritten digits. It provides results based on different machine learning and deep learning algorithms. The algorithms are compared through the accuracy of the model.
+The model classifies the handwritten digits. Results are based on different machine learning and deep learning algorithms.
 ## Model Comparision
 |Sl. No.| Model| Test Accuracy|
 | --- | --- | --- |
